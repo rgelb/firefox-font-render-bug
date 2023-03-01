@@ -1,0 +1,1 @@
+# firefox-font-render-bug
